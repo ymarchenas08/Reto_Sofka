@@ -1,0 +1,15 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "continuar".(¹‡¼Î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹Şİã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëİåşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ÿª®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ºÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëİåşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ÿª®
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(øõ°ÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+b
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÛÛ¯ø
+^
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(×Æƒñ

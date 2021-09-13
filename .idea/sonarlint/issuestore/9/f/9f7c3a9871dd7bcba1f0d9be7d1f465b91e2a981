@@ -1,0 +1,49 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™½ÒÏúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡ààæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıâ›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Üšã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾ÚÀ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¶Œ÷œ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ø„¶öøÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Îûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡ààæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—ç§„ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ‡»Éşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·¾éüúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©·á‰üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(®ÃêA
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßâá¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡ààæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ãŠÓ’
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ú­în
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Ú«‡ıÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¦˜õ–
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ŠãŞÓşÿÿÿÿ
+7
+java:S1116#"Remove this empty statement.(ôŸìúÿÿÿÿ
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŞ¬¸ûÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¡ààæ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(€Â³ß
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Óêë—ùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¢ğÏûÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Ôï
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¾†Ğòûÿÿÿÿ
+7
+java:S1116-"Remove this empty statement.(ôŸìúÿÿÿÿ
+h	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÛøÃúÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¡ààæ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(÷àÁ¯ûÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(³®Æ¿øÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(âÃÑçùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ŒŞÉŠúÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(šÖª£
+7
+java:S11167"Remove this empty statement.(ôŸìúÿÿÿÿ
+~
+java:S1192"hDefine a constant instead of duplicating this literal "Vamos a jugar nivel 3 por 500.000 pesos" 5 times.(¡ààæ

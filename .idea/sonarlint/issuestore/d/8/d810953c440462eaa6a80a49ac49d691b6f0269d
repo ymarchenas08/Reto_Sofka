@@ -1,0 +1,48 @@
+
+n	java:S116"YRename this field "PreguntaNivel1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Æğ
+n	java:S116"YRename this field "PreguntaNivel2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ä§Ô
+s	java:S116	"YRename this field "PreguntaNivel3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ñ®âøÿÿÿÿ
+n	java:S116
+"YRename this field "PreguntaNivel4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÑ–œ
+s	java:S116"YRename this field "PreguntaNivel5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µØòãüÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(•Æğ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(³Ä§Ô
+D
+java:S2140	")Use "java.util.Random.nextInt()" instead.(¯Ñ®âøÿÿÿÿ
+?
+java:S2140
+")Use "java.util.Random.nextInt()" instead.(ÑÑ–œ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(µØòãüÿÿÿÿ
+7	java:S131""Add a default case to this switch.(Ì³ø‰
+7
+java:S1116."Remove this empty statement.(ôŸìúÿÿÿÿ
+7	java:S1314""Add a default case to this switch.(¯çşÆ
+<	java:S131P""Add a default case to this switch.(¤…Ñüÿÿÿÿ
+7
+java:S1116f"Remove this empty statement.(ôŸìúÿÿÿÿ
+<	java:S131k""Add a default case to this switch.(Î¹½õüÿÿÿÿ
+=	java:S131†""Add a default case to this switch.(šŸ²³ùÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(—ğ°·
+E
+java:S1656"/Remove or correct this useless self-assignment.(ŸŞº»
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(èØ¯˜ûÿÿÿÿ
+p
+java:S1104"ZMake PreguntaNivel1 a static final constant or non-public and provide accessors if needed.(•Æğ
+p
+java:S1104"ZMake PreguntaNivel2 a static final constant or non-public and provide accessors if needed.(³Ä§Ô
+u
+java:S1104	"ZMake PreguntaNivel3 a static final constant or non-public and provide accessors if needed.(¯Ñ®âøÿÿÿÿ
+p
+java:S1104
+"ZMake PreguntaNivel4 a static final constant or non-public and provide accessors if needed.(ÑÑ–œ
+u
+java:S1104"ZMake PreguntaNivel5 a static final constant or non-public and provide accessors if needed.(µØòãüÿÿÿÿ
+‚
+java:S4165"lRemove this useless assignment; "numeroPregunta" already holds the assigned value along all execution paths.(—ğ°·
+‚
+java:S4165"lRemove this useless assignment; "nivelPreguntas" already holds the assigned value along all execution paths.(ŸŞº»
